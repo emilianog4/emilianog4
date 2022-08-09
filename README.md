@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Emiliano Gutierrez a Full Stack Developer from Argentina
+
+- 🌱 I’m currently learning React (and to speak English).
+- 💬 Ask me about HTML, CSS and JavaScript.
+- 📫 How to reach me: emiliano.gutierrez4@gmail.com. 
+- ⚡ Fun fact: I'm a Math teacher too.
 
 <!--
 **emilianog4/emilianog4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
