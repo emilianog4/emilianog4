@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Emiliano Gutierrez a Data Scientist Jr. from Argentina
 
-- 🌱 I’m currently learning Python for Data Science (and to speak English).
-- 💬 Ask me about HTML, CSS and JavaScript, Python, MySQL.
 - 📫 How to reach me: emiliano.gutierrez4@gmail.com. 
 - ⚡ I'm a Math teacher too.
 
